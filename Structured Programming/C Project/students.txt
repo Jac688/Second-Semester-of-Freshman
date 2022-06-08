@@ -1,0 +1,6 @@
+Name		ID			English		GPA
+Tony		1900000000		B		3.00
+Kitty		1932000000		A		4.00
+Hello		1934055555		B-		2.67
+Trump		1952222222		C+		2.33
+Rain		1961111111		C-		1.67

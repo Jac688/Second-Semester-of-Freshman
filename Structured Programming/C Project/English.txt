@@ -1,0 +1,6 @@
+Name		ID		Grade
+Tony		1900000000	B
+Kitty		1932000000	A
+Hello		1934055555	B-
+Trump		1952222222	C+
+Rain		1961111111	C-
